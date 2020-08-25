@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 {
   "▣ Expertise"     : ["JavaScript", "ES6", "React", "Redux", "Bootstrap", "HTML5", "CSS3", "Chrome Dev Tool", "SPA"],
   "▣ Confidential"  : ["Node", "Express", "MongoDB", "MYSQL", "SASS","Material Design UI","JQuery","JQuery-UI"],
-  "▣ Familiar"      : ["Bootstrap", "Bootstrap Material Design", "Materializecss", "Graphics Design", ..more],
+  "▣ Familiar"      : ["PHP", "Laravel", "D3", "UX & UI", "Graphics Design", ..more],
   "▣ Tools"         : ["Git","Chrome Dev Tool"," VS Code","slack","adobe xd","adobe photoshop", ..more]
 }
 ```
