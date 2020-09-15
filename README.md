@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 }
 ```
 
-[![Sajeeb Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=sajeebmahamed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sajeebmahamed)
+[![Sajeeb Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=sajeebmahamed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=#2d2d2d&bg_color=#F6F8FA)](https://github.com/sajeebmahamed)
 &nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sajeebmahamed&layout=compact&theme=radical)
