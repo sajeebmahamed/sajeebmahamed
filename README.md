@@ -31,5 +31,14 @@ Here are some ideas to get you started:
 }
 ```
 
-[![Sajeeb Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=sajeebmahamed&show_icons=true&title_color=#2d2d2d&icon_color=79ff97&text_color=#2d2d2d&bg_color=#F6F8FA)](https://github.com/sajeebmahamed)
-&nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sajeebmahamed&layout=compact&theme=radical)
+```js
+{
+  "▣ Expertise"     : ["JavaScript", "ES6", "React", "Redux", "Bootstrap", "HTML5", "CSS3", "Chrome Dev Tool", "SPA"],
+  "▣ Confidential"  : ["Node", "Express", "MongoDB", "MYSQL", "SASS","Material Design UI","JQuery","JQuery-UI"],
+  "▣ Familiar"      : ["PHP", "Laravel", "D3", "UX & UI", "Graphics Design", ..more],
+  "▣ Tools"         : ["Git","Chrome Dev Tool"," VS Code","slack","adobe xd","adobe photoshop", ..more]
+}
+```
+
+[![Sajeeb Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=sajeebmahamed&show_icons=true&title_color=#2d2d2d&icon_color=79ff97&text_color=9f9f9f&bg_color=#FFFFFF)](https://github.com/sajeebmahamed)
+&nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sajeebmahamed&layout=compact&bg_color=#FFFFFF&theme=radical)
